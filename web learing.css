@@ -1,0 +1,82 @@
+
+body{
+    color: honeydew;
+}
+#first{
+    height: 600px;
+    width: 800px;
+    border: 3px solid ;color:red;
+    margin: 00px 00px 00px 500px;
+    
+    
+    
+}
+#h1{
+    text-align: center;
+    color: brown;
+}
+#second{
+    height: 20px;
+    width: 700px;
+   background-color: brown;
+   margin: 00px 00px 00px 50px;
+}
+ #label1{
+    margin: 00px 00px 00px 50px;
+    color: aliceblue;
+
+}
+#label2{
+    margin: 00px 00px 00px 50px;
+    color: aliceblue;
+}
+#label3{
+    margin: 00px 00px 00px 50px;
+    color: aliceblue;
+}
+#label4{
+    margin: 00px 00px 00px 50px;
+    color: aliceblue;
+}
+#label5{
+    margin: 00px 00px 00px 50px;
+    color: aliceblue;
+}
+#third{
+    height: 465px;
+    width: 600px;
+    background-color: rgb(62, 65, 69);
+    margin: 10px 00px 00px 50px;
+    border: 3px solid ;color: black;
+
+}
+h1{
+    text-align: center;
+    color: white;
+    
+}
+#h2{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+#t1{
+    color: white;
+
+}
+#t2{
+
+color: white;
+margin: ;
+}
+#t3{
+    color: white;
+
+}
+#t4{
+    color: white;
+
+}
+#t5{
+    color: white;
+
+}
